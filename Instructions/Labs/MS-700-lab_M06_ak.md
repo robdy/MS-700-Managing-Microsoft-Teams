@@ -20,13 +20,13 @@ After you complete this lab, you will be able to:
 
 - Set up a Calling Plan
 
-- Order and Assign phone numbers
+- Order and assign phone numbers
 
 - Configure emergency addresses
 
 - Create calling policies
 
-- Configure resource accounts and calling queues
+- Configure resource accounts and call queues
 
 - Create resource accounts and auto attendants
 
